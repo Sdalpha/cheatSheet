@@ -28,3 +28,10 @@ nav{
     width: 88vw;
     margin: auto;
 }
+footer{
+    text-align: center;
+    background-color: aliceblue;
+    color: gray;
+    height: 2rem;
+    filter: drop-shadow(10px 10px 10px black);
+}
